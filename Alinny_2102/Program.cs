@@ -10,6 +10,18 @@ namespace Alinny_2102
     {
         static void Main(string[] args)
         {
+            int idade;
+            string nome;
+            string sobrenome;
+            Console.Write("Digite seu nome: ");
+            nome = Console.ReadLine();
+            Console.Write("Digite seu sobrenome: ");
+            sobrenome = Console.ReadLine();
+            Console.WriteLine("\"Como foi seu dia?\", "+nome);
+            Console.Write("Insira a sua idade: ");
+            idade = int.Parse(Console.ReadLine());
+            Console.WriteLine("Seu nome é {0} {1} e a sua idade é: {2} anos.",nome, sobrenome, idade);
+            Console.ReadKey();
         }
     }
 }

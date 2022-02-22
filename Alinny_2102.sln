@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alinny_2102", "Alinny_2102\Alinny_2102.csproj", "{0943AA06-7AB0-4AD5-9D01-0715CAC0094F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraALinny", "CalculadoraALinny\CalculadoraALinny.csproj", "{E4C68595-5C46-4B08-91EF-5715BE09A8D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0943AA06-7AB0-4AD5-9D01-0715CAC0094F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0943AA06-7AB0-4AD5-9D01-0715CAC0094F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0943AA06-7AB0-4AD5-9D01-0715CAC0094F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C68595-5C46-4B08-91EF-5715BE09A8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C68595-5C46-4B08-91EF-5715BE09A8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C68595-5C46-4B08-91EF-5715BE09A8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C68595-5C46-4B08-91EF-5715BE09A8D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
