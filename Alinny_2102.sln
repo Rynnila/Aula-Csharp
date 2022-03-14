@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alinny_2102", "Alinny_2102\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraALinny", "CalculadoraALinny\CalculadoraALinny.csproj", "{E4C68595-5C46-4B08-91EF-5715BE09A8D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laços de repetição", "laços de repetição\laços de repetição.csproj", "{B86967EF-A4D6-4A81-957D-DC43DBE9A109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora2", "Calculadora2\Calculadora2.csproj", "{EE195F07-B525-442E-A00E-269CBE5DDE32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E4C68595-5C46-4B08-91EF-5715BE09A8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4C68595-5C46-4B08-91EF-5715BE09A8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4C68595-5C46-4B08-91EF-5715BE09A8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86967EF-A4D6-4A81-957D-DC43DBE9A109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86967EF-A4D6-4A81-957D-DC43DBE9A109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86967EF-A4D6-4A81-957D-DC43DBE9A109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86967EF-A4D6-4A81-957D-DC43DBE9A109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE195F07-B525-442E-A00E-269CBE5DDE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE195F07-B525-442E-A00E-269CBE5DDE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE195F07-B525-442E-A00E-269CBE5DDE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE195F07-B525-442E-A00E-269CBE5DDE32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

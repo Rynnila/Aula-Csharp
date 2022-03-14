@@ -22,6 +22,10 @@ namespace Alinny_2102
             idade = int.Parse(Console.ReadLine());
             Console.WriteLine("Seu nome é {0} {1} e a sua idade é: {2} anos.",nome, sobrenome, idade);
             Console.ReadKey();
+
+            Computador lab = new Computador();
+            lab.cadastrar();
+            lab.exibir();
         }
     }
 }
